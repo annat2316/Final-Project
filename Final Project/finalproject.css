@@ -1,0 +1,77 @@
+/* Anna Thompson */
+/* Three column template */
+/* 11-1-2018 */
+
+* { 
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    border-bottom: 2px solid #ef9c00;
+}
+
+body {
+    width: 90%;
+    background-color: LightSeaGreen;
+    margin: 15px auto;
+    border: 1px solid black; 
+    }
+
+#sidebarA {
+    width: 24%;
+    height: 400px;     
+    float: left;
+    border-right: 2px solid #ef9c00;
+     }
+
+main {
+    width: 48%; 
+    float: left; 
+    margin: 10px;
+    }
+
+#sidebarB {
+    width: 23%;
+    height: 400px;     
+    float: right;
+    border-left: 2px solid #ef9c00;
+    }
+
+footer {
+    clear: both; 
+    border-top: 2px solid #ef9c00; 
+    }
+    
+ul { 
+    margin: 10px 25px;
+}
+
+.Ann1 {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.Ann2 {
+    height: 100px;
+    width: 100px;
+    float: right;
+    border: 2px solid black;
+}
+
+.Ann3 {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+#disclaimer {
+   float: right;
+}
+p {
+margin: 5px;
+}
+
